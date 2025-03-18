@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jpm2cytky-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/jpm2cytky-dotnet-basic-gitops
